@@ -1,6 +1,6 @@
 # Welcome to the world of Alfa-Romeo Regalo
 
-<table><tr><td bgcolor=Black><font color=White>" The world requires some novel concepts to investigate future transportation"</font></td></tr></table>
+<table><tr><td bgcolor=Black>" The world requires some novel concepts to investigate future transportation"</td></tr></table>
 
 Alfa-Romeo Regalo is a conceptual design facing on the requirement of ferrying between different space stations. The shipment of spacemen and -women, cargos, foods, documents... can all be achieved through this space sraft.
 
