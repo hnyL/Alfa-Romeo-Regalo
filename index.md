@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Welcome to the world of Alfa-Romeo Regalo
 
-You can use the [editor on GitHub](https://github.com/hnyL/Alfa-Romeo-Regalo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<table><tr><td bgcolor=Black><font color=White>" The world requires some novel concepts to investigate future transportation"</font></td></tr></table>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Alfa-Romeo Regalo is a conceptual design facing on the requirement of ferrying between different space stations. The shipment of spacemen and -women, cargos, foods, documents... can all be achieved through this space sraft.
 
-### Markdown
+And it's super minimized! Comparing to any kind of spaceships currently exist.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can take a brief view on [TJU Industial Design Galary](http://idesign.tju.edu.cn/exhibitions/index/work_detail/id/195/type/biye.html) to maintain a direct insight to the design and the intelligent designer, Lorraine Jade.
 
-```markdown
-Syntax highlighted code block
+<table><tr><td bgcolor=Black><font color=White>" ... so you really think this ferry spacecraft would be the connection to shake different space stations? "</font></td></tr></table>
 
-# Header 1
-## Header 2
-### Header 3
+<table><tr><td bgcolor=Black><font color=White>" Absolutely! Think of the globalization, is this a new kind of globalization? "</font></td></tr></table>
 
-- Bulleted
-- List
+<table><tr><td bgcolor=Black><font color=White>" Well congratulations, problem solved!"</font></td></tr></table>
 
-1. Numbered
-2. List
+## Background **Tron Legacy** and **Transportabel-Space-Station System**
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Design Details
 
-### Jekyll Themes
+The design can be deparated into three parts of exterior, interior and human-machine. These three sections are organically correlated but remains their own specific and unique features.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hnyL/Alfa-Romeo-Regalo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Exterior Design
 
-### Support or Contact
+Here is the Exterior Design
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Interior Design
+
+Here is the Interior Design
+
+### Human-machine Deign
+
+Here is the Human-machine Deign
+
+## Why **Alfa-Romeo**
+
